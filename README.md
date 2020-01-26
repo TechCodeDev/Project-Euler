@@ -8,7 +8,7 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 [ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/Even%20Fibonacci%20numbers(Problem%202).ipynb)
 
 ### 3) The prime factors of 13195 are 5, 7, 13 and 29.What is the largest prime factor of the number 600851475143 ?
-[ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/solution-3.py)
+[ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/Largest%20prime%20factor(Problem%203).ipynb)
 
 ### 4) A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.Find the largest palindrome made from the product of two 3-digit numbers. ?
 [ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/solution-4.py)
