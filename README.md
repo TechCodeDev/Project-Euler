@@ -14,10 +14,10 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 [ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/Largest%20palindrome%20product(Problem%204).ipynb)
 
 ### 5) 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
-[ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/smallest%20number%20that%20can%20be%20divided(Problem%205).ipynb)
+[ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/Smallest%20multiple(Problem%205).ipynb)
 
 ### 6) The sum of the squares of the first ten natural numbers is,12 + 22 + ... + 102 = 385 The square of the sum of the first ten natural numbers is,(1 + 2 + ... + 10)2 = 552 = 3025 Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025 − 385 = 2640.Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.?
-[ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/solution-6.py)
+[ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/Sum%20square%20difference(Problem%206%20).ipynb)
 
 ### 7) By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.What is the 10 001st prime number?
 [ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/solution-7.py)
