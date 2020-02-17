@@ -11,10 +11,10 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 [ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/Largest%20prime%20factor(Problem%203).ipynb)
 
 ### 4) A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.Find the largest palindrome made from the product of two 3-digit numbers. ?
-[ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/solution-4.py)
+[ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/Largest%20palindrome%20product(Problem%204).ipynb)
 
 ### 5) 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
-[ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/solution-5.py)
+[ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/smallest%20number%20that%20can%20be%20divided(Problem%205).ipynb)
 
 ### 6) The sum of the squares of the first ten natural numbers is,12 + 22 + ... + 102 = 385 The square of the sum of the first ten natural numbers is,(1 + 2 + ... + 10)2 = 552 = 3025 Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025 − 385 = 2640.Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.?
 [ Answer : click here ](https://github.com/TechCodeDev/Project_Euler/blob/master/Eular_Project/solution-6.py)
